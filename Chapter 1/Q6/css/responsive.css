@@ -1,0 +1,99 @@
+@media only screen and (max-width:820px) {
+
+    
+    #navbar12 {
+        padding: 15px;
+    }
+    #textfirst p {
+        font-size: 14px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+    }
+
+    #nav_btns {
+        margin-left: 35px;
+    }
+
+
+
+    #icons_12 ul li img {
+        padding: 3px;   
+        /* padding-right: 0px; */
+    }
+
+    #icons_12 ul li{
+        margin: -5px 19px 0px 4px;
+    }
+
+
+
+
+    .headingm h3{
+        width: 320px !important;
+        margin: 40px 10px 30px -20px;
+        
+    
+    }
+
+    .headingm {
+        margin: 0px 10px 30px -40px;
+        
+    
+    }
+
+
+
+
+    #miniCards {
+        width: 300px;
+        margin-right: 10px;
+        /* margin-left: -45px; */
+    }
+    #upmarq {
+        margin: 32px 0px 50px 0px;
+    }
+    .headingm h3 {
+        margin: 40px 0px 30px 0px;
+        width: 300px;
+    }
+    #cardsbox {
+        margin: 15px 0px 20px 0px;
+    }
+    #text {
+        width: 95%;
+    }
+    .mini {
+        margin: -20px 0px 40px -50px;
+        width: 350px;
+    }
+    #imagesgallery img {
+        width: 328px;
+        height: 218px;
+    }
+
+
+
+    #details123 {
+        width: 100%;
+        padding-bottom: 70px;
+        /* padding-left: -700px; */
+    }
+
+    #address12{
+        margin-left: -49px;
+        widows: 200px;
+        font-size: 14px;
+    }
+
+
+    #contactlinks{
+        margin-left: -50px;
+    }
+
+
+
+
+
+
+    
+}
